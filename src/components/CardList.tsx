@@ -22,6 +22,7 @@ export function CardList({ cards }: CardsProps): JSX.Element {
 
   // TODO FUNCTION HANDLE VIEW IMAGE
 
+  console.log(cards);
   return (
     <>
       {/* TODO CARD GRID */}
